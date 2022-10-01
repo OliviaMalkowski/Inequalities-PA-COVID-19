@@ -5,5 +5,5 @@ The repository contains the Stata syntax to replicate all of the analyses from o
 
 There are two files:
 
-2022-10-01_do-file-stata-PA-annotated_v01.do # This is the annotated Stata do file
-2022-10-01_do-file-stata-PA-annotated_v01.pdf # This is the annotated Stata do file in PDF format
+1. 2022-10-01_do-file-stata-PA-annotated_v01.do # This is the annotated Stata do file
+2. 2022-10-01_do-file-stata-PA-annotated_v01.pdf # This is the annotated Stata do file in PDF format
